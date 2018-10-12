@@ -1,0 +1,27 @@
+{
+  "name": "ns-cli",
+  "version": "1.0.0",
+  "description": "node server project generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ns-cli"
+  ],
+  "bin": {
+    "ns": "./bin/ns.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "chalk": "^2.4.1",
+    "commander": "^2.18.0",
+    "download-git-repo": "^1.1.0",
+    "inquirer": "^6.2.0",
+    "mkdirp": "^0.5.1",
+    "ora": "^3.0.0",
+    "rimraf": "^2.6.2"
+  }
+}
