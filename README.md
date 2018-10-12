@@ -1,6 +1,11 @@
 # ns-cli
 创建nodeJS 服务模板
 
+
+## 安装
+`npm install ns-cli -g`
+
+
 ## 特点
 * 服务端框架支持 Koa2、 Express
 * 语言支持 javascript、typescript
