@@ -1,6 +1,6 @@
 {
   "name": "ns-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "node server project generator",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,8 @@
     "ns": "./bin/ns.js"
   },
   "author": "",
-  "engines" : { 
-    "node" : ">= 6.x" 
+  "engines": {
+    "node": ">= 6.x"
   },
   "license": "ISC",
   "dependencies": {
