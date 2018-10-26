@@ -1,6 +1,5 @@
 # ns-cli
-创建nodeJS 服务模板
-
+创建nodeJS 服务, 以及 nodeJs服务端渲染的项目模板
 
 ## 安装
 `npm install ns-cli -g`
@@ -9,6 +8,10 @@
 ## 特点
 * 服务端框架支持 Koa2、 Express
 * 语言支持 javascript、typescript
+* 支持 koa + vue  服务端渲染
+* 支持 express + vue  服务端渲染
+* 支持 koa + react 服务端渲染(开发中...)
+* 支持 express + react  服务端渲染(开发中...)
 
 
 ## 命令
