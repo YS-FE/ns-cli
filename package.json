@@ -1,13 +1,17 @@
 {
   "name": "ns-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "node server project generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "ns-cli", "express", "koa", "vue-ssr", "react-ssr"
+    "ns-cli",
+    "express",
+    "koa",
+    "vue-ssr",
+    "react-ssr"
   ],
   "bin": {
     "ns": "./bin/ns.js"
