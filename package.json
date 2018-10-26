@@ -1,7 +1,7 @@
 {
   "name": "ns-cli",
   "version": "1.0.5",
-  "description": "node server project generator",
+  "description": "Node server && serverRender project generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
