@@ -10,8 +10,8 @@
 * 语言支持 javascript、typescript
 * 支持 koa + vue  服务端渲染
 * 支持 express + vue  服务端渲染
-* 支持 koa + react 服务端渲染(开发中...)
-* 支持 express + react  服务端渲染(开发中...)
+* 支持 koa + react 服务端渲染
+* 支持 express + react  服务端渲染
 
 
 ## 命令
